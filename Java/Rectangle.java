@@ -22,3 +22,4 @@ public class Rectangle extends Application{
 		alert.showAndWait();
 	}
 }
+
